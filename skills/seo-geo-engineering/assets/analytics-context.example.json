@@ -1,0 +1,8 @@
+{
+  "engine": "google",
+  "property": "sc-domain:example.com",
+  "search_type": "web",
+  "country": "all",
+  "device": "all",
+  "timezone": "America/Los_Angeles"
+}

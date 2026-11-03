@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "fixture_notice": "Synthetic illustration. Replace with actual owner-approved facts before use.",
+  "facts": [
+    {
+      "fact_id": "installation.minimum_price",
+      "entity_id": "service.installation",
+      "predicate": "minimum_price",
+      "value": 25000,
+      "currency": "KZT",
+      "qualifier": "from",
+      "billing_unit": "one_installation",
+      "exclusions": ["materials"],
+      "status": "verified",
+      "protected": true,
+      "source": {"artifact": "synthetic_fixture", "locator": "installation_offer"},
+      "checks": {
+        "scope_regex": "Установка: [^.]{0,250}\\.",
+        "required_text": ["от", "25 000", "₸", "за одну установку", "материалы отдельно"],
+        "forbidden_text": ["под ключ"],
+        "preserve_snippet_context": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "environment": "production",
+  "origin": "https://example.com",
+  "ownership": "managed_block",
+  "bot_groups": [
+    {"user_agents": ["*"], "rules": [{"directive": "Disallow", "path": "/internal-search/"}]},
+    {"user_agents": ["Googlebot"], "rules": [{"directive": "Disallow", "path": "/internal-search/"}]}
+  ],
+  "sitemaps": ["https://example.com/sitemap.xml"],
+  "critical_urls": [
+    {"url": "https://example.com/services/", "token": "Googlebot", "profile": "google", "expected_crawl": "allow"},
+    {"url": "https://example.com/internal-search/?q=sample", "token": "Googlebot", "profile": "google", "expected_crawl": "disallow"}
+  ],
+  "llms": {"enabled": false}
+}

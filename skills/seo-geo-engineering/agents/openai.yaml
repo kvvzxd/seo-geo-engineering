@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO / GEO Engineering"
+  short_description: "SEO и ИИ-поиск с защитой фактов и проверкой правил"
+  default_prompt: "Используй $seo-geo-engineering для оптимизации сайта: сохрани услуги, цены и условия и проверь результат."

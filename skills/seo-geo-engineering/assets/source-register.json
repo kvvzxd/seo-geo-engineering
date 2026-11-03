@@ -1,0 +1,376 @@
+{
+  "baseline_date": "2026-11-03",
+  "basis": "Primary sources consulted during research in this chat; recheck dynamic capabilities before implementation.",
+  "sources": [
+    {
+      "url": "https://arxiv.org/html/2311.09735v3",
+      "scope": "Benchmark methodology/results with limits; not a commercial ranking guarantee.",
+      "evidence_class": "research-supported",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/research-register.md"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/html/2506.11097v3",
+      "scope": "Benchmark methodology/results with limits; not a commercial ranking guarantee.",
+      "evidence_class": "research-supported",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/research-register.md"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/html/2602.12187v2",
+      "scope": "Benchmark methodology/results with limits; not a commercial ranking guarantee.",
+      "evidence_class": "research-supported",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/research-register.md"
+      ]
+    },
+    {
+      "url": "https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/generative-search.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/crawling/docs/crawl-budget",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/crawling/docs/faceted-navigation",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/crawling/docs/robots-txt/create-robots-txt",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/crawl-controls-and-orchestration.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/crawling/docs/robots-txt/robots-txt-spec",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/crawl-controls-and-orchestration.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/apis/indexing-api/v3/quickstart",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/snippet",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/content-and-evidence.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/product-variants",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/local-international-commerce.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/sd-policies",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/local-international-commerce.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/title-link",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/content-and-evidence.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/crawling-indexing/block-indexing",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/crawling-indexing/googlebot",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/intent-and-architecture.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/crawl-controls-and-orchestration.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/deployment-and-recovery.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/local-international-commerce.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/generative-search.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/content-and-evidence.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/specialty/international/localized-versions",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/local-international-commerce.md"
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/updates",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/local-international-commerce.md"
+      ]
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/bots",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/generative-search.md"
+      ]
+    },
+    {
+      "url": "https://docs.perplexity.ai/docs/resources/perplexity-crawlers",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/generative-search.md"
+      ]
+    },
+    {
+      "url": "https://llmstxt.org/",
+      "scope": "Proposal format for agent-facing representations; not evidence of search ranking benefit.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/crawl-controls-and-orchestration.md"
+      ]
+    },
+    {
+      "url": "https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/generative-search.md"
+      ]
+    },
+    {
+      "url": "https://support.google.com/business/answer/7091",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/local-international-commerce.md"
+      ]
+    },
+    {
+      "url": "https://support.google.com/webmasters/answer/16908024",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/generative-search.md"
+      ]
+    },
+    {
+      "url": "https://support.google.com/webmasters/answer/16984139",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/generative-search.md"
+      ]
+    },
+    {
+      "url": "https://web.dev/articles/vitals",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://www.indexnow.org/documentation",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/technical-seo.md"
+      ]
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc9309",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/crawl-controls-and-orchestration.md"
+      ]
+    },
+    {
+      "url": "https://yandex.ru/support/webmaster/ru/alice.html",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/generative-search.md"
+      ]
+    },
+    {
+      "url": "https://yandex.ru/support/webmaster/ru/robot-workings/clean-param",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/crawl-controls-and-orchestration.md"
+      ]
+    },
+    {
+      "url": "https://yandex.ru/support/webmaster/ru/service/alice-answers",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/generative-search.md"
+      ]
+    },
+    {
+      "url": "https://yandex.ru/support/webmaster/ru/site-geography/site-region.html",
+      "scope": "See the linked claim in the relevant reference.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "references/local-international-commerce.md"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/google/robotstxt/master/robots.cc",
+      "scope": "Cross-check escaped-pattern length priority; implementation here is a bounded independent evaluator, not upstream Google code.",
+      "evidence_class": "documented",
+      "last_consulted": "2026-11-03",
+      "referenced_by": [
+        "scripts/rep.py",
+        "references/tool-contracts.md"
+      ]
+    }
+  ]
+}

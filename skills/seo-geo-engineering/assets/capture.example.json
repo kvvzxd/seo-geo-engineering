@@ -1,0 +1,8 @@
+{
+  "url": "https://example.com/services/installation/",
+  "captured_at": "2026-11-03T00:00:00Z",
+  "capture_method": "synthetic_fixture",
+  "status": 200,
+  "headers": {"Content-Type": "text/html; charset=utf-8"},
+  "html": "<!doctype html><html lang=\"ru\"><head><title>Установка</title><link rel=\"canonical\" href=\"/services/installation/\"></head><body><main><h1>Установка</h1><p>Установка: от 25 000 ₸ за одну установку, материалы отдельно.</p><a href=\"/prices/\">Условия и цены</a></main></body></html>"
+}
